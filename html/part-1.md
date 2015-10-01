@@ -636,7 +636,7 @@ HTML5 стандарт де-факто сейчас, его и будем пре
     <head>
         <meta charset="utf-8">
         <!-- ключевые слова документа -->
-        <meta name="keyword" content="CERN, European, physics">
+        <meta name="keywords" content="CERN, European, physics">
     </head>
 </html>
 ```
@@ -842,7 +842,7 @@ https://validator.w3.org/nu/#textarea
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <meta name="keyword" content="CERN, European, physics">
+        <meta name="keywords" content="CERN, European, physics">
     </head>
     <p>CERN is a European research organization that operates
     the largest particle physics laboratory in the world.</p>
