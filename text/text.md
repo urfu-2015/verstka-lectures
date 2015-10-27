@@ -274,8 +274,8 @@ h2
 В вебе утверждено 5 видов шрифтов: с засечками, без засечек, моноширинные, рукописные, декоративные.    
 Наиболее распространенные из них это шрифты с засечками и без засечек. Шрифт без засечек, как правило, состоит из линий
 одинаковой толщины. У шрифта с засчеками есть эти самые засечки, которые располагаются на концах линий. Толщина линии
-часто варьируется в мастах сгибов и не только.    
-![](http://umotnas.ru/umot/issledovanie-peremesheniya-okna-7-issledovanie-granic-8-vozvra/13.png)  
+часто варьируется в мастах сгибов и не только.  
+![](https://cloud.githubusercontent.com/assets/769992/10760452/6eca48aa-7cde-11e5-9014-bf16cbcddf20.png)  
 Для различных ситуаций требуются гарнитуры с различными свойствами. Например, в книжном и газетном деле наиболее
 распространены гарнитуры с засечками. Хотя об этом идет
 [много споров](http://alexpoole.info/blog/which-are-more-legible-serif-or-sans-serif-typefaces/), но многими считается,
@@ -724,7 +724,7 @@ p
     text-shadow: 2px 2px red;
 }
 ```
-![text-shadow-simple](https://leto47g.storage.yandex.net/rdisk/2b02bf8346c14f64be6b81795b907309835e406ae9f7ab588132d706915eb41c/inf/7mWff1lftWDziYg0wtbdsX8VOk6equnZlN1t3B_qbvmOGjgaaYKAuz1CSLnGh9d2AVGn_MVH0BhIEoS3708coQ==?uid=0&filename=2015-10-07%2019-43-33%20Create%20a%20new%20fiddle%20-%20JSFiddle.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=bb1c32a9059f69de31e2a0150d36c4b6&force_default=no&ycrid=na-fe772f59e2d4af779c313b0343c78e73-downloader13g)  
+![simple](https://cloud.githubusercontent.com/assets/769992/10760921/ba542f00-7ce0-11e5-8240-e89a53e04b05.png)  
 
 Добавим размытие в 3 пикселя:  
 ```css
@@ -781,7 +781,7 @@ p
 }
 ```
 
-![](https://leto29h.storage.yandex.net/rdisk/7b5eb01990d3b8c86e9d850ffc59a531ad27f2cbd756596faeb6e840d7f2dffa/inf/lvuk-HdNG-KxokRMFE4ciw6EUU-JY38ZJhbY01rSC0xKdkm1P7N-vB20qOutStm3Ol7WK243dGwyOe7Ew1bdfg==?uid=0&filename=2015-10-08%2013-08-57%20Cool%20Text%20Effects%20Using%20CSS%20Text-Shadow.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=bb1c32a9059f69de31e2a0150d36c4b6&force_default=no&ycrid=na-a3c86add5326ca51225e094dc27bdc9e-downloader12d)  
+![neon](https://cloud.githubusercontent.com/assets/769992/10760920/ba531516-7ce0-11e5-8716-46e7e6cb5b03.png)  
 
 ## Многоколоночность
 Многоколоночность — возможность разбивать блоки текста на колонки. Этот прием часто применяется при верстке газет,
