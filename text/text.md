@@ -1021,7 +1021,7 @@ h3
 отображать такие ситуации. Именно для таких случаев предусмотрено свойство переполнения текста `text-overflow`.
 Единственным (помимо значения по умолчанию `clip`) значением является `ellipsis`. Оно помещает символ многоточия в месте,
 где текст «обрезается»:  
-![](https://2.downloader.disk.yandex.ru/preview/722b0297666fef9d3f5156d54f3a4f5aed388f5c4cea5f547c02fafd52aebab8/inf/Mr4lLa2zxxoFfgxYMMcHkibEOYQ1yqTDh7lY3wO2QLo_zvkdOGhC1VJYI3LnvzFvqgT2RgiC5nwkDnidnOiVxg%3D%3D?uid=226545079&filename=2015-10-15%2011-56-39%20HTML%20Tables.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1191x505)  
+![text](https://cloud.githubusercontent.com/assets/769992/10760974/025919b4-7ce1-11e5-8176-7b5b92fc4b8c.png)  
 Таким образом пользователю становится более очевидно, что в ячейке присутствует какой-то длинный непоместившийся текст.
 При этом если выделить такое слово вместе с символов многоточия и скопировать в буфер обмена, то слово скопируется все
 слово целиком, что удобно.
