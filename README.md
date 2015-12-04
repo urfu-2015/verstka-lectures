@@ -5,3 +5,4 @@
 3. [CSS](css/css.md)
 4. [Шрифты и текст](text/text.md)
 5. [Трансформации и анимации](animations/README.md)
+5. [Графика и Photoshop](graphics/graphics.md)
